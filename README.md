@@ -1,3 +1,6 @@
 # Conversor
 App conversor de unidades hecho en Xamarin
-![image](https://github.com/jorge251100/Conversor/assets/89675378/0b7aec0b-fe17-4755-8e2b-d52777f12c83)
+Realizado como prueba para entender el funcionamiento de Xamarin
+![image](https://github.com/jorge251100/Conversor/assets/89675378/4e25e5bd-a066-4575-89cb-378cc7389ac8)
+![image](https://github.com/jorge251100/Conversor/assets/89675378/17a3143c-045b-46a0-bdf2-472e8dc15f71)
+
